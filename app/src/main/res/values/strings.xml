@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="plz_wait">pleasewait</string>
+    <string name="time_out">timeout</string>
+    <string name="try_again">tryagain</string>
+    <string name="parsing_err">parseerror</string>
+    <string name="net_connect">net</string>
+    <string name="no_data">nodata</string>
+    <string name="fetching">fetch</string>
+</resources>
